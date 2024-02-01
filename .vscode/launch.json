@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringapirestApplication<springapirest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mikecaceda.springapirest.SpringapirestApplication",
+            "projectName": "springapirest",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
